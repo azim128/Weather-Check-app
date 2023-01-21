@@ -1,0 +1,23 @@
+body {
+    background: url(images/bg-image.jpg) repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#cityName{
+    color: red !important;
+}
+#weather-icon{
+    border-style: none;
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+    background: #86e6c5;
+    transition: 9s;
+}
+.card:hover{
+    background: #db9431!important;
+    width: 32rem !important;
+} 
